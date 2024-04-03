@@ -1,35 +1,21 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
-Bienvenidos a
-# Programaci�n con objetos I
+# Hola! Me llamo Matías Torres
 
-En esta materia aprender�n sobre la famosa POO _(OOP en ingl�s)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+Me presento, mi nombre es Matías Torres, tengo 19 años y este es mi segundo año como estudiante de la Universidad Nacional de Hurlingham.
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
-
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisi�n 1 **turno noche**: Martes 18 a 22hs y S�bado 10 a 12hs.
-* Horario comisi�n 2 **turno ma�ana**: Mi�rcoles 8 a 12hs y S�bado 10 a 12hs. 
-* Este cuatrimestre los profesores somos Gerardo Gonz�lez Tulian, Lucas Spigariol, Cristian Ciarallo y Hern�n Coniglio
-* Adem�s nos acompa�an como colaboradores Valentino Chiappanni, Manuel Nu�ez y Lucian Coniglio.
-
-## Links importantes :monocle_face:
-- [x] [P�gina principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/13rFU2mObqdFF_2Ocimey_oHJ0Ldv-Gx0S1N4cfHKO4Q/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.gg/tqyHtPt) y ver el canal de Discord.
+(espacio provisorio para imagen, no soy de sacarme fotos así que no tengo una reciente jaja)
 
 
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
+## Un poco sobre mi historia
 
-* [Gu�a R�pida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en ingl�s)_
+    Terminé el secundario hace dos años y ya a finales de mi último año me inscribí a la universidad, suelo complementar la vida universitaria con mis hobbies y el tiempo que comparto con mis seres queridos, principalmente con mi pareja, con quien comparto un más que bello vínculo hace casi año y medio ya. 
 
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+    Mi interés por las computadoras nació gracias a mi tío, quien siempre supo mucho sobre el tema desde que tengo memoria y me instruyó en gran parte de las cosas que sé, dándome el impulso inicial para que investigue por cuenta propia, hasta el momento en el que armé mi propia pc, la cual uso hoy en día. En base a eso, ya sabiendo lo básico del hardware, me interesé en pandemia por el funcionamiento del software, así que llevé a cabo un par de cursos para saciar mi curiosidad y aprendí lo básico de algunos lenguajes (html, css, java, python), pero sentí que me faltaba lo fundamental, así que ya desde entonces me decidí qué carrerar querría seguir, espero poder seguir aprendiendo siempre, y poder dedicarme a este oficio que no solo me llena de curiosidad, sino que me entretiene y me activa las neuronas.
+
+## Mis gustos
+* Actividad Física, mayormente frecuento el gimnasio y suelo salir a andar en bici, como en las pelis cuando se necesita "conectar" con la naturaleza
+* Lectura en general, ya sea novela, manga, cómic, etc. Si me interesa, me desconecto del mundo un par de horas
+* Los videojuegos, siendo mi hobbie principal desde la infancia y lo que detonó mi interés por la computadoras al querer poder correr los juegos que me interesaban, tengo preferencia por los juegos de terror, roguelike/lite, acción y lucha, pero suelo variar de tanto en tanto.
+* Se me da decente el cocinar, aunque mi especialidad está en las cosas saladas, lo dulce no es lo mío, me gusta más lo amargo y ácido, principalmente a causa de mi gusto por el mate y el café.
+* También disfruto mucho el ver películas y series, teniendo preferencia por el género de terror, aunque suelo variar con las películas que suelo ver con mi pareja.
